@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [faq]()
 - [django-disqus](backend/modules)
 - [react-native-typeform-webhook](modules/typeform-webhook)
+- [django-openai](backend/modules)
 
 # Getting started: Frontend
 
