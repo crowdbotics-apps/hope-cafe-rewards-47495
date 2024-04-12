@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-openai](backend/modules)
 - [react-native-maps](modules/maps)
 - [react-native-privacy-policy-webview](modules/privacy-policy-webview)
+- [react-native-onboarding](modules/onboarding)
 
 # Getting started: Frontend
 
